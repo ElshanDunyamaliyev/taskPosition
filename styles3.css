@@ -1,0 +1,46 @@
+div{
+    width: 583px;
+    height: 170px;
+    margin-bottom: 30px;
+}
+.light-green{
+    background: #5DAD87;
+}
+.fixed{
+    background: #C4C4C4;
+    position: fixed;
+    width: 135px;
+    height: 62px;
+    left: 357px;
+    top: 8px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.red{
+    background: #BF1B1B;
+}
+.green{
+    background: #48B83E;
+    position: relative;
+    left: 76px;
+
+}
+.gray{
+    background: #C4C4C4;
+    position: relative;
+
+}
+.purple{
+    background: #312EBA;
+    position: absolute;
+    width: 142px;
+    height: 60px;
+    left: 25px;
+    top: 20px;
+}
